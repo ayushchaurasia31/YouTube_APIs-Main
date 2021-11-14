@@ -18,3 +18,7 @@ Setup crontab to run Job, Follow this
 Run the server using python mange.py runserver
 # Screenshots
 For visualization through a dashboard one may directly run the app locally and the get the UI provided through django-rest-framework
+# Dashboard
+<img width="1440" alt="dashboard" src="https://user-images.githubusercontent.com/46618132/141683079-c7cdf3d5-ffab-43a9-bba2-d97b17e66dc9.png">
+# Filters
+<img width="1435" alt="filters" src="https://user-images.githubusercontent.com/46618132/141683085-d82b055a-ca84-4ab2-9eb0-40f566b59de3.png">
